@@ -1,4 +1,5 @@
 let characters = "âäàáãåçñ¢[.(+|&éêëèíîïìß]$*);-/ÂÄÀÁÃÅÇÑ¦,%_>?øÉÊËÈÍÎÏÌ`:#@=Øabcdefghi«»ðý±°jklmnopqrªºæ¸Æ¤µ~stuvwxyz¡¿ÐÝÞ¢£¥·©§¶¼½¾¬|¯¨'×{ABCDEFGHI-ôöòóõ}JKLMNOPQR¹ûüùú\÷STUVWXYZ²ÔÖÒÓ0134567"
+// hay hay hay
 console.log("afe")
 console.log("je moeder!")
 let line = [];
